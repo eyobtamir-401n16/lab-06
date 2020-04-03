@@ -1,0 +1,19 @@
+{
+  "name": "lab-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyobtamir-401n16/lab-06.git"
+  },
+  "author": "Eyob Tamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyobtamir-401n16/lab-06/issues"
+  },
+  "homepage": "https://github.com/eyobtamir-401n16/lab-06#readme"
+}
